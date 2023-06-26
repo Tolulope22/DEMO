@@ -1,2 +1,4 @@
 hello
 world
+
+This is the second file2.txt
